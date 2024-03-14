@@ -1,0 +1,3 @@
+CODEOWNERS = ["@L0R3nz"]
+
+DEPENDENCIES = ["i2c"]
